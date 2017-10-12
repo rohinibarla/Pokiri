@@ -1,8 +1,10 @@
 http://www.spoj.com/problems/TEST/
 http://www.spoj.com/problems/PRIME1/
 http://www.spoj.com/problems/FCTRL2/
-http://www.spoj.com/problems/ONP/
 http://www.spoj.com/problems/LASTDIG/
 http://www.spoj.com/problems/PALIN/
 http://www.spoj.com/problems/ADDREV/
 
+
+Try this one after the above 6 programs
+http://www.spoj.com/problems/ONP/

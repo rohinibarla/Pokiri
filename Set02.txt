@@ -1,2 +1,15 @@
 // second set of programs
-// to do, write them
+
+01. http://www.spoj.com/problems/FCTRL/
+02. http://www.spoj.com/problems/NSTEPS/
+03. http://www.spoj.com/problems/SAMER08F/
+04. http://www.spoj.com/problems/ACPC10A/
+05. http://www.spoj.com/problems/CANDY/
+06. http://www.spoj.com/problems/FASHION/
+07. http://www.spoj.com/problems/TOANDFRO/
+08. http://www.spoj.com/problems/EIGHTS/
+09. http://www.spoj.com/problems/WILLITST/
+10. http://www.spoj.com/problems/ALCATRAZ1/
+11. http://www.spoj.com/problems/SMPWOW/
+
+Check out the useful resources in https://www.codechef.com/certification/prepare#foundation

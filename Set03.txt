@@ -1,0 +1,10 @@
+1. http://www.spoj.com/problems/PCC15D/
+2. http://www.spoj.com/problems/CHITEST1/
+3. http://www.spoj.com/problems/CHI_BINARY/
+4. http://www.spoj.com/problems/ADAGCD/
+5. http://www.spoj.com/problems/LCMSUM/
+6. http://www.spoj.com/problems/NDIV/
+7. http://www.spoj.com/problems/AUCSE012/
+8. http://www.spoj.com/problems/ETF/
+9. http://www.spoj.com/problems/AP2/
+10. http://www.spoj.com/problems/TOE1/

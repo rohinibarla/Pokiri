@@ -1,0 +1,8 @@
+Solve any 2 problems:
+
+1. http://www.spoj.com/problems/DIG/
+2. http://www.spoj.com/problems/MAX_NUM/
+3. http://www.spoj.com/problems/CNT_LUCK/
+4. http://www.spoj.com/problems/SPCU/
+5. http://www.spoj.com/problems/SPCQ/
+

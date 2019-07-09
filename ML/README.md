@@ -1,6 +1,6 @@
 ### Data Analytics and AI for Process Industry
 
-Trying to provide some useful resources available for free.  
+Trying to provide some useful [resources](resources.md) available for free.  
 
 Bellow is the syllabus from [here](http://iipe.ac.in/wp-content/uploads/2019/06/1.-Syllabus_Petroleum-Engineering-17-05-2019-edited.pdf)  
 
